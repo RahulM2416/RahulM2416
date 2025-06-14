@@ -1,6 +1,6 @@
 # 💫 About Me:
 👨‍🎓 Student @ DSU <br>
-Intrested & Working on : <br>FULL STACK DEVELOPMENT | MACHINE LEARNING & AI | APP DEVELOPMENT | DSA
+Intrested & Working on : <br>FULL STACK DEVELOPMENT | MACHINE LEARNING & AI | DSA
 
 
 ## 🌐 Socials:
