@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ML<br>👯 I’m looking to collaborate on Full Stack & Machine Learning <br>🤝 I’m looking for help with Ai&ML<br>🌱 I’m currently learning ML
+FULL STACK DEVELOPMENT | MACHINE LEARNING | APP DEVELOPMENT 
 
 
 ## 🌐 Socials:
