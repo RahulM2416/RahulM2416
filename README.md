@@ -1,6 +1,5 @@
 # 💫 About Me:
 👨‍🎓 Student @ DSU <br>
-Intrested & Working on : <br> 🌐FULL STACK DEVELOPMENT (MERN) | 🔥 MACHINE LEARNING & AI | DSA
 
 
 ## 🌐 Socials:
