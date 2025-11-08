@@ -1,5 +1,6 @@
 # 💫 About Me:
-Student @ DSU , BTECH IN CSE
+Student @ DSU , BTECH IN CSE 5th sem 
+Currently Learning ML & Building the projects which solves the problems of the real world.. 
 
 
 ## 🌐 Socials:
