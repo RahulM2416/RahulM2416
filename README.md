@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student @ DSU , BTECH IN CSE 6th sem.
+Student @ DSU , BTECH IN CSE 7th sem.
 Building the projects which solves the problems of the real world.. 
 
 
